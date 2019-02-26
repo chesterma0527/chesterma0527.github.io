@@ -1,0 +1,39 @@
+.title{
+	
+}
+
+#topContent{
+	vertical-align:middle;
+	text-align:center;
+	width:100%; 
+	margin-top:4%;
+}
+
+nav ul{
+	list-style-type: none;
+	margin:0;
+	margin-left:-2%;
+	margin:auto;
+
+}
+
+li a { 
+	text-decoration: none; 
+	color:white;
+}
+
+li{
+	display:inline;
+	background-color: purple;
+	padding:5px;
+	text-decoration: none;
+}
+
+
+.introduction{
+
+}
+
+#homeimage{
+
+}
