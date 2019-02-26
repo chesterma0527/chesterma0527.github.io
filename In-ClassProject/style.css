@@ -1,5 +1,5 @@
 .title{
-	
+	font-family: 'Anton', sans-serif;
 }
 
 #topContent{
@@ -20,6 +20,7 @@ nav ul{
 li a { 
 	text-decoration: none; 
 	color:white;
+	font-family: 'Open Sans', sans-serif;
 }
 
 li{
@@ -29,11 +30,26 @@ li{
 	text-decoration: none;
 }
 
-
-.introduction{
-
+.lowerContent{
+	text-align:center;
+	margin:auto;
+	margin-top:3%;
 }
 
-#homeimage{
+.GalleryImage{
+	margin-top: 2%;
+}
 
+.homeimage{
+	margin-top:2%;
+}
+
+
+.introduction{
+	width:80%;
+	margin:auto;
+}
+
+p1{
+	font-family: 'Open Sans', sans-serif;
 }
