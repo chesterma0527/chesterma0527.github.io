@@ -1,0 +1,73 @@
+h1{
+	text-align: center;
+}
+
+nav{
+	background-color: lightgrey;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+}
+
+p{
+	font-size: 20px;
+}
+
+.NavBar a{
+	text-decoration: none;
+}
+
+#Avatartext{
+width: 1000px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+#Titanictext{
+width: 1000px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+#Starwarstext{
+width: 1000px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+
+.NavBar li{
+	display: inline;
+	padding:50px;
+}
+
+.NavBar a:hover {
+	background:Darkgrey;
+	color:white;
+}
+
+#Avatar{
+	height: 550px;
+	padding: 200px 20px;
+}
+
+#Titanic{
+	height: 550px;
+	padding: 200px 30px;
+}
+
+#StarWars{
+	height: 550px;
+	padding: 200px 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
