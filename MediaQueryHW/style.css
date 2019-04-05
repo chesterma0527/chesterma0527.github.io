@@ -1,0 +1,192 @@
+
+
+
+/*small screen */
+@media screen and (max-width: 700px) {
+  body {
+    background-color: #fefae6;
+}
+nav{
+	text-align: center;
+	width: 100%;
+	margin-top: 4%;
+
+}
+
+nav a:hover{
+	color:black;
+	text-decoration: none;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+li a { 
+	text-decoration: none; 
+	color:grey;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 25px;
+}
+
+li{
+	padding:15px;
+	text-decoration: none;
+}
+
+#smalllogo{
+	display: block;
+	margin-left: auto;
+	margin-top: auto;
+	margin-top: 40px;
+	width: 65%;
+
+}
+.line1{
+display: none;
+}
+
+.line2{
+display: none;
+}
+
+.card{
+	margin-left: 30%;
+	margin-bottom: 10%;
+}
+
+  }
+
+
+
+
+
+/*medium scree */
+@media screen and (min-width: 700px) {
+  body {
+    background-color: #fefae6;
+}
+nav{
+	text-align: center;
+	width: 100%;
+	margin-top: 4%;
+
+}
+
+nav a:hover{
+	color:black;
+	text-decoration: none;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+li a { 
+	text-decoration: none; 
+	color:grey;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 25px;
+}
+
+li{
+	display: inline;
+	padding:15px;
+	text-decoration: none;
+}
+
+#smalllogo{
+	display: block;
+	margin-left: auto;
+	margin-top: auto;
+	margin-top: 20px;
+	width: 57%;
+
+}
+.line1{
+	color:grey;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+	margin-left: 33%;
+}
+
+.line2{
+	color:grey;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+	margin-left: 50%;
+}
+
+.card{
+	margin-left: 36%;
+	margin-bottom: 10%;
+}
+  }
+
+
+/*large screen*/
+@media only screen and (min-width: 1200px) {
+  body {
+    background-color: #fefae6;
+  }
+
+
+nav{
+	text-align: center;
+	width: 100%;
+	margin-top: 4%;
+
+}
+
+nav a:hover{
+	color:black;
+	text-decoration: none;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+li a { 
+	text-decoration: none; 
+	color:grey;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 25px;
+}
+
+li{
+	display:inline;
+	padding:50px;
+	text-decoration: none;
+}
+
+.card{
+	margin-left: -20px;
+
+}
+
+
+#smalllogo{
+	display: block;
+	margin-left: auto;
+	margin-top: auto;
+	margin-top: 20px;
+	width: 57%;
+
+
+}
+.line1{
+	color:grey;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 50px;
+	margin-left: 33%;
+}
+
+.line2{
+	color:grey;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 50px;
+	margin-left: 50%;
+	padding-top: 2%;
+}
+}
