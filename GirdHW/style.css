@@ -1,0 +1,67 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: orange;
+  padding:20px;
+  grid-column-gap: 10px;
+  grid-row-gap: 15px;
+
+}
+
+.grid-item1{
+  background-color: lightyellow;
+  border: 1px solid black;
+  grid-area: 1/1/2/3;
+  padding: 20px;
+}
+
+.grid-item2 {
+  background-color: lightyellow;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.grid-item {
+  background-color: lightyellow;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.grid-item3 {
+  background-color: lightyellow;
+  border: 1px solid black;
+  padding: 20px;
+  grid-area: 3/1/4/4;
+}
+
+.container2 {
+background-color: orange;
+
+}
+
+.dog1{
+ width: 100%;
+}
+
+.dog2{
+ width: 100%;
+}
+
+.dog3{
+ width: 50%;
+}
+
+
+
+.col{
+border: 1px solid black;
+padding:20px;
+}
+
+
+
+
+
+
+
+
