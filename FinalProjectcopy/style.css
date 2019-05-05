@@ -1,0 +1,282 @@
+#topbar{
+	display: block;
+	margin-left: -15px;
+	margin-top: -10px;
+}
+
+#topbar2{
+	display: block;
+	margin-left: -7px;
+	margin-top: -2px;
+	margin-bottom: 3%;
+}
+
+#profile{
+	width: 130px;
+	margin-top: -18%;
+	margin-left: 85%;
+}
+
+
+#instruction{
+	font-size: 28px;
+	color: purple;
+	margin-top: 4.5%;
+	margin-left: 15%;
+	margin-bottom: -6%;
+}
+
+#login1{
+	font-size: 25px;
+	color: black;
+	padding-left: 41%;
+}
+
+#login2{
+	font-size: 25px;
+	color: black;
+	padding-left: 39.5%;
+}
+
+#login3{
+	font-size: 25px;
+	color: black;
+	padding-left: 39.5%;
+}
+
+
+#textbox1{
+	display: inline;
+	margin-left: 7%;
+	margin-bottom: 2.5%;
+	border:2px solid purple;
+	border-radius:30px;
+	height: 50px;
+	width: 250px;
+	font-size: 32px;
+}
+
+#textbox2{
+	display: inline;
+	margin-left: 5.6%;
+	margin-bottom: 2.5%;
+	border:2px solid purple;
+	border-radius:30px;
+	height: 50px;
+	width: 250px;
+	font-size: 32px;
+}
+#textbox3{
+	display: inline;
+	margin-left: 5%;
+	margin-bottom: 2.5%;
+	border:2px solid purple;
+	border-radius:30px;
+	height: 50px;
+	width: 250px;
+	font-size: 32px;
+}
+
+#icon1{
+	display: inline;
+	height: 90px;
+	margin-left:36%;
+
+
+}
+
+#icon2{
+	height: 90px;
+	margin-left:12%;
+
+
+}
+
+#icon3{
+	margin-left: 84.9%;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	height: 90px
+}
+
+#icon4{
+	margin-left: 84.6%;
+	margin-top: 1.14%;
+	margin-bottom: 0.3%;
+	height: 90px
+}
+
+
+
+#wellness{
+	margin-top: 2%;
+	margin-bottom: -11%;
+	margin-left: 87.5%
+}
+
+#pwreset{
+	color: grey;
+	margin-top: -3%;
+	margin-left: 65%;
+	margin-bottom: 2%;
+}
+
+
+
+
+.menu{
+ width: 62%;
+ padding-left: 10%;
+}
+
+
+
+.row1{
+	padding-top:200px;
+}
+
+
+
+
+.col{
+border: 1px solid transparent;
+padding:20px;
+}
+
+.logout{
+	width: 40px;
+	margin-left: 95%;
+	font-size: 14px;
+	color: black;
+	margin-bottom: -2%;
+}
+
+#time{
+	display: block;
+	color: black;
+	margin-top:5%;
+	margin-left: 95%
+
+}
+
+#time2{
+	display: block;
+	color: black;
+	font-size: 14px;
+	margin-left: -8%;
+	margin-top: -1.3%;
+}
+
+#app_para{
+	display: block;
+	font-size: 56px;
+	color: purple;
+	margin-left: 32%;
+	margin-bottom: 2%;
+	margin-top: -2%;
+
+}
+
+#appbtn{
+	display:block;
+	width: 470px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#apped{
+	font-size: 32px;
+	color: rgb(79,79,79);
+	margin-left: 2%;
+}
+
+.app{
+	font-size: 25px;
+	margin-top: 2%;
+	margin-left: 35%;
+}
+
+#app2{
+	font-size: 25px;
+	margin-top: 2%;
+	margin-left: 35%;
+}
+
+#cancel{
+	display:block;
+	width: 470px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	margin-bottom: -3.8%;
+}
+
+#profilePage{
+	display: block;
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -2%;
+
+}
+
+#name{
+	color: purple;
+	font-size: 50px;
+	text-align: center;
+	margin-top: -.1%;
+	margin-bottom: 2%;
+}
+
+#phone{
+	color: purple;
+	font-size: 25px;
+	text-align: center;
+	margin-top: -.1%;
+	margin-bottom: 2%;
+}
+
+.birthday{
+	display: inline;
+	font-size: 25px;
+	margin-left:5%;
+	margin-top: -1%;
+
+}
+
+#date{
+	margin-left: 40%;
+
+}
+
+#edit{
+	width: 60px;
+	margin-left: 1%;
+}
+
+#phonebtn{
+	width: 150px;
+	height: 75px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3%;
+	background-color: purple;
+	color: white;
+	border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
